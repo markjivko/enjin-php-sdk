@@ -7,7 +7,7 @@ Create blockchain applications using the PHP programming language.
 Sign up to Enjin Cloud: [Kovan (Testnet)](https://kovan.cloud.enjin.io/),
 [Mainnet (Production)](https://cloud.enjin.io/) or [JumpNet](https://jumpnet.cloud.enjin.io/).
 
-This is a port from the official [Java](https://github.com/enjin/enjin-java-sdk)/[C#](https://github.com/enjin/enjin-csharp-sdk) SDK with no support for async tasks and events (by design).
+This is a port from the official [Java](https://github.com/enjin/enjin-java-sdk)/[C#](https://github.com/enjin/enjin-csharp-sdk) SDKs with no support for async tasks and events (by design).
 
 ### Resources
 
