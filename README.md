@@ -44,7 +44,7 @@ use Enjin\Sdk\GraphQL\Request\Project;
 use Enjin\Sdk\GraphQL\Request\Shared;
 
 // Get the project client
-$projectClient = new ProjectClient(EnjinHosts::KOVAN, true);
+$projectClient = new ProjectClient(EnjinHosts::KOVAN);
 
 // Authenticate project
 $accessToken = $projectClient->authProject(
