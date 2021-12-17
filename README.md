@@ -7,6 +7,8 @@ Create blockchain applications using the PHP programming language.
 Sign up to Enjin Cloud: [Kovan (Testnet)](https://kovan.cloud.enjin.io/),
 [Mainnet (Production)](https://cloud.enjin.io/) or [JumpNet](https://jumpnet.cloud.enjin.io/).
 
+This is a port from the official Java/C# SDK with no support for async tasks and events (by design).
+
 ### Resources
 
 * [Enjin Docs](https://docs.enjin.io)
@@ -35,8 +37,7 @@ This example showcases how to quickly create and authenticate a client on the pr
 make further requests to the platform.
 
 ```php
-Enjin Platform SDK for PHP
-
+// Enjin Platform SDK for PHP
 use Enjin\Sdk\EnjinHosts;
 use Enjin\Sdk\ProjectClient;
 use Enjin\Sdk\GraphQL\Request\Project;
@@ -74,8 +75,6 @@ You can open issues for bugs and enhancement requests.
 
 If you make any changes or improvements to the SDK, which you believe are beneficial to others, consider making a pull
 request to merge your changes to be included in the next release.
-
-Ensure that tests under the `sdk` module are passing and add any necessary test classes or test cases for your code.
 
 Be sure to include your name in the list of contributors.
 
