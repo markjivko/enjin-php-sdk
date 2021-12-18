@@ -29,7 +29,7 @@ The Enjin PHP SDK requires at a minimum PHP7.
 
 ## Installation
 
-Simply clone this Git repository and use inside your PHP projects using a PSR-4 Autoloader.
+Simply clone this Git repository and use a PSR-4 Autoloader.
 
 ## Quick Start
 
