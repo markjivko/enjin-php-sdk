@@ -1,5 +1,11 @@
 # Blockchain SDK by Enjin for PHP
 
+<p align="center">
+    <a href="https://enjin.io/">
+        <img src="https://repository-images.githubusercontent.com/439396181/838770f8-8fbf-4a77-bcc9-6142eb2b8413"/>
+    </a>
+</p>
+
 Create blockchain applications using the PHP programming language.
 
 [Learn more](https://enjin.io/) about the Enjin blockchain platform.
